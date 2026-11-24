@@ -1,6 +1,6 @@
 # Speaking Quest
 
-An adventure of 8 speaking missions. Speak a full sentence to pass each level.
+An adventure of 22 speaking missions in 3 levels. Speak a full sentence to pass each mission. Arabic hints included.
 
 A free English learning game for students and teachers. No install, no tracking, one HTML file.
 
